@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500&display=swap" >
+<link rel="stylesheet" href="resources/css/bootstrap.css">
+<link rel="stylesheet" href="resources/css/style.css" >
+<title>Invezta :: Home</title>
+</head>
+<body>
+  <header class="d-flex">
+    <a href="#" class="btn btn-hollow btn-back"><span aria-hidden="true">&larr;</span></a>
+    <a href="#" class="logo"><img src="resources/images/common/invezta-logo.png" alt="Logo"></a>
+    <a href="#" class="btn btn-hollow btn-close ml-auto"><span aria-hidden="true">&times;</span></a>
+  </header>
+  <div class="main-content d-flex align-content-center flex-wrap">
+      <div class="container-fluid">
+        <div class="page-tl">
+          <b>Your Recommended Portfolio</b>
+          <span>How did we do it?</span>
+        </div>
+
+        <div class="d-flex-sm flex-row pro-list">
+            <div class="col"><b class="sec-tl">Car</b><span>Goal Selected</span></div>
+            <div class="col"><b class="sec-tl">9L</b><span>Target Amount</span></div>
+            <div class="col"><b class="sec-tl">Jun 2032</b><span>Target Date</span></div>
+            <div class="col"><b class="sec-tl">SIP</b><span>Investment Type</span></div>
+            <div class="col"><b class="sec-tl">30,000</b><span>Investment needed</span></div>
+        </div>
+
+        <div class="row">
+          <div class="col-sm-4">            
+            <div class="progress round-shape">
+              <div class="progress-bar bg-green-shade-1" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+              <div class="progress-bar bg-blue-shade-1" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
+            </div>
+            <p><b><span>Debt</span> <span>50%</span></b><b><span>Equity</span> <span>50%</span></b></p>
+            <p>Aditya Birla Sun Life Frontline Equity Fund - Growth - Direct Plan</p>
+          </div>
+          <div class="col-sm-8">
+            <ul class="box-content-list">
+              <li>
+                  <div class="media d-flex align-items-stretch box-content active bg-green-shade-0">
+                    <div class="align-self-center order-2 box-amt">10,000</div>
+                    <div class="media-body order-1">
+                      <h4>Aditya Birla Sun Life Frontline Equity Fund - Growth  - Direct Plan</h4>
+                      <ul>
+                        <li><b>Large Cap</b><span>Min. Investment Amt : 500</span></li>
+                      </ul>
+                    </div>
+                  </div>
+              </li>
+              <li>
+                  <div class="media d-flex align-items-stretch box-content bg-green-shade-1">
+                  <div class="align-self-center order-2 box-amt">10,000</div>
+                  <div class="media-body order-1">
+                    <h4>Franklin India Prima Fund - Growth - Direct Plan</h4>
+                    <ul>
+                      <li><b>Mid/small Cap</b><span>Min. Investment Amt : 500</span></li>
+                    </ul>
+                  </div>
+                </div>
+              </li>
+              <li>
+                  <div class="media d-flex align-items-stretch box-content bg-blue-shade-1">
+                  <div class="align-self-center order-2 box-amt">10,000</div>
+                  <div class="media-body order-1">
+                    <h4>ICICI Prudential Bond Fund - Growth - Direct Plan</h4>
+                    <ul>
+                      <li><b>Long Term Income/Gilt</b><span>Min. Investment Amt : 500</span></li>
+                    </ul>
+                  </div>
+                </div>
+              </li>
+              <li>
+                  <div class="media d-flex align-items-stretch alight-item-end box-content blank">
+                    <div class="align-self-center order-2"><small> values are in INR</small></div>
+                  </div>
+              </li>
+            </ul>
+          </div>
+          <div class="col-sm-12 align-items-center">
+            <a href="#" class="btn btn-primary btn-lg bg-green-shade-2 align-content-sm-center">Start Investing Now</a>
+          </div>
+        </div>
+      </div>
+  </div>
+</body>
+</html>
+
+

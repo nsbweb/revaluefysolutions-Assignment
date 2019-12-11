@@ -1,0 +1,29 @@
+Hi Narendra,
+
+I tried reaching over to you on phone but couldn't get through. Your profile looks pretty interesting to me and I wish to take your candidature forward. Hence, taking the liberty to share a coding challenge with you to test your skills. I hope that's okay. Also attaching an introductory presentation.
+
+Design to HTML conversion
+
+What you find herewith is the screen which needs to html'ised using the given image file. The logo is also shared in the same email. Below are the guidelines which you need to follow.
+
+1. You can use bootstrap.css, but no other library
+
+2. You can not use any javascript code either in pure form or in library form.
+
+3. Make generic and re-usable components, rather than div specific classes.
+
+4. Strictly do not override default class.
+
+5. The design has to be fully responsive.
+
+6. Stick to kebab case notations.
+
+7. Make sure your code is properly indented and formatted.
+
+8. Submit your code in form of github link.
+
+9. Extra points for adding linters.
+
+10. Validate your html files using https://validator.w3.org/
+
+11. Validate your css files using http://www.css-validator.org/
